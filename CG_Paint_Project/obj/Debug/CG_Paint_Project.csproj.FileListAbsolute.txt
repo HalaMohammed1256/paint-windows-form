@@ -1,0 +1,18 @@
+E:\Project\CG_Paint_Project\CG_Paint_Project\bin\Debug\CG_Paint_Project.exe.config
+E:\Project\CG_Paint_Project\CG_Paint_Project\bin\Debug\CG_Paint_Project.exe
+E:\Project\CG_Paint_Project\CG_Paint_Project\bin\Debug\CG_Paint_Project.pdb
+E:\Project\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.csprojResolveAssemblyReference.cache
+E:\Project\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.Form1.resources
+E:\Project\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.Properties.Resources.resources
+E:\Project\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.csproj.GenerateResource.Cache
+E:\Project\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.exe
+E:\Project\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.pdb
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\bin\Debug\CG_Paint_Project.exe.config
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.exe
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.pdb
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\bin\Debug\CG_Paint_Project.exe
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\bin\Debug\CG_Paint_Project.pdb
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.csprojResolveAssemblyReference.cache
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.Form1.resources
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.Properties.Resources.resources
+C:\Users\HalaM\Desktop\New folder\CG_Paint_Project\CG_Paint_Project\obj\Debug\CG_Paint_Project.csproj.GenerateResource.Cache
